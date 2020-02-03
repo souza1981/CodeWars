@@ -7,7 +7,8 @@ namespace CodeWars
         static void Main(string[] args)
         {
             //Console.WriteLine(VowelCount.GetVowelCount("abracadabra"));
-            Console.WriteLine(DnaStrand.MakeComplement("GTAT"));
+            //Console.WriteLine(DnaStrand.MakeComplement("GTAT"));
+            Console.WriteLine(Kata.UniqueInOrder(""));
         }
     }
 }
